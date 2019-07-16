@@ -1,4 +1,4 @@
-## prometheus-lab
+## run prometheus on docker
 
 Components
 
