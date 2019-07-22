@@ -21,6 +21,9 @@ scoop install gow 7zip
 * launch with cmd.
 
 ```bash
+git clone https://github.com/guitarrapc/prometheus-lab.git
+cd prometheus-lab
+cd host
 setup.bat
 ```
 

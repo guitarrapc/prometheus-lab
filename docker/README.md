@@ -13,6 +13,9 @@ Components
 * launch with docker-compose.
 
 ```bash
+git clone https://github.com/guitarrapc/prometheus-lab.git
+cd prometheus-lab
+cd docker
 docker-compose up
 ```
 
